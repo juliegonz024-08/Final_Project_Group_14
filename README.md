@@ -18,11 +18,13 @@ Sources:
 https://web.ped.nm.gov/bureaus/indian-education/tribal-education-status/
 https://data.census.gov/profile/Cuba_CCD%2C_Sandoval_County%2C_New_Mexico
 https://nmvistas.org/2026/Cuba_Independent_Schools
+
 For Institutions:
 https://www.usnews.com/education/best-high-schools/new-mexico/districts/cuba-independent-schools/cuba-high-school-12915
 https://www.usnews.com/education/k12/new-mexico/cuba-elementary-213280
 https://www.usnews.com/education/k12/new-mexico/districts/cuba-independent-schools-103060
 DonorsChoose:
+
 https://www.donorschoose.org/schools/new-mexico/cuba-independent-school-district/10522
 https://www.donorschoose.org/schools/new-mexico/gallup-mckinley-co-school-dist/tse-yi-gai-high-school/75027
 Census:
